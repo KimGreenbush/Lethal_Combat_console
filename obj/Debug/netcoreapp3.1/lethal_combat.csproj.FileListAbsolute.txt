@@ -1,0 +1,13 @@
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.exe
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.deps.json
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.runtimeconfig.json
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.runtimeconfig.dev.json
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.dll
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.pdb
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.csprojAssemblyReference.cache
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.AssemblyInfoInputs.cache
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.AssemblyInfo.cs
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.csproj.CoreCompileInputs.cache
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.dll
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.pdb
+D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.genruntimeconfig.cache
