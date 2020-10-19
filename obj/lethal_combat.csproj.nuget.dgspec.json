@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GOOGLE DRIVE\\CODING_DOJO\\Coding_Dojo_Assignments\\C#Net\\Lethal_Combat\\lethal_combat\\lethal_combat.csproj": {}
+    "C:\\Users\\kng09\\Documents\\GitHub\\lethal_combat\\lethal_combat.csproj": {}
   },
   "projects": {
-    "D:\\GOOGLE DRIVE\\CODING_DOJO\\Coding_Dojo_Assignments\\C#Net\\Lethal_Combat\\lethal_combat\\lethal_combat.csproj": {
+    "C:\\Users\\kng09\\Documents\\GitHub\\lethal_combat\\lethal_combat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GOOGLE DRIVE\\CODING_DOJO\\Coding_Dojo_Assignments\\C#Net\\Lethal_Combat\\lethal_combat\\lethal_combat.csproj",
+        "projectUniqueName": "C:\\Users\\kng09\\Documents\\GitHub\\lethal_combat\\lethal_combat.csproj",
         "projectName": "lethal_combat",
-        "projectPath": "D:\\GOOGLE DRIVE\\CODING_DOJO\\Coding_Dojo_Assignments\\C#Net\\Lethal_Combat\\lethal_combat\\lethal_combat.csproj",
-        "packagesPath": "C:\\Users\\kmore\\.nuget\\packages\\",
-        "outputPath": "D:\\GOOGLE DRIVE\\CODING_DOJO\\Coding_Dojo_Assignments\\C#Net\\Lethal_Combat\\lethal_combat\\obj\\",
+        "projectPath": "C:\\Users\\kng09\\Documents\\GitHub\\lethal_combat\\lethal_combat.csproj",
+        "packagesPath": "C:\\Users\\kng09\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kng09\\Documents\\GitHub\\lethal_combat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\kmore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kng09\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -57,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

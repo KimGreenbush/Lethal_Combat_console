@@ -11,3 +11,16 @@ D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_c
 D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.dll
 D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.pdb
 D:\GOOGLE DRIVE\CODING_DOJO\Coding_Dojo_Assignments\C#Net\Lethal_Combat\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.genruntimeconfig.cache
+C:\Users\kng09\Documents\GitHub\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.exe
+C:\Users\kng09\Documents\GitHub\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.deps.json
+C:\Users\kng09\Documents\GitHub\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.runtimeconfig.json
+C:\Users\kng09\Documents\GitHub\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.runtimeconfig.dev.json
+C:\Users\kng09\Documents\GitHub\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.dll
+C:\Users\kng09\Documents\GitHub\lethal_combat\bin\Debug\netcoreapp3.1\lethal_combat.pdb
+C:\Users\kng09\Documents\GitHub\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.csprojAssemblyReference.cache
+C:\Users\kng09\Documents\GitHub\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.AssemblyInfoInputs.cache
+C:\Users\kng09\Documents\GitHub\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.AssemblyInfo.cs
+C:\Users\kng09\Documents\GitHub\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.csproj.CoreCompileInputs.cache
+C:\Users\kng09\Documents\GitHub\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.dll
+C:\Users\kng09\Documents\GitHub\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.pdb
+C:\Users\kng09\Documents\GitHub\lethal_combat\obj\Debug\netcoreapp3.1\lethal_combat.genruntimeconfig.cache
